@@ -1,4 +1,4 @@
-module tasks
+module github.com/LeBronQ/RNG-task
 
 go 1.22.2
 
